@@ -1,8 +1,4 @@
 <h1 align="center">Hello World!🌍, I'm Vicente García</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vpg17&label=Profile%20views&color=54ff47&style=plastic" alt="vpg17" /> </p>
-<br>
-<img src="https://www.codewars.com/users/VPG17/badges/small"/>
-<br>
 
 * 🔭 Currently studying by my own.
 * 🌱 Learning various programming lenguages such as **Python** or **JavaScript**.
@@ -38,8 +34,8 @@
 
 ### GitHub info:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VPG17&show_icons=true&theme=radical)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vpg17&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vicente's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpg17&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VPG17&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vpg17&label=Profile%20views&color=54ff47&style=plastic" alt="vpg17" /> </p>
+<img src="https://www.codewars.com/users/VPG17/badges/small"/>
