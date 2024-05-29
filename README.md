@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!🌍, I'm Vicente García</h1>
 
 * 🔭 Currently studying by my own.
-* 🌱 Learning various programming lenguages such as **Python** or **JavaScript**.
+* 🌱 Learning various programming lenguages such as **Python**, **PHP** or **JavaScript**.
 * 🎨 Also have knowledge of **Visual Basic for Applications**
 * 📬 Email me at **vicente.gdlm17@gmail.com** or **vicentepedro@live.com**
 
