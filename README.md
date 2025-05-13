@@ -34,6 +34,6 @@
 
 ### GitHub info:
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vpg17&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Vicente's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpg17&layout=compact&theme=cobalt&hide_border=true" /></a>
+![Vicente's GitHub stats](https://github-readme-stats.vercel.app/api?username=VPG17&show_icons=true&theme=transparent)
 
 <img src="https://www.codewars.com/users/VPG17/badges/small"/>
