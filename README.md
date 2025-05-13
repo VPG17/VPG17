@@ -35,5 +35,3 @@
 ### GitHub info:
 
 ![Vicente's GitHub stats](https://github-readme-stats.vercel.app/api?username=VPG17&show_icons=true&theme=transparent)
-
-<img src="https://www.codewars.com/users/VPG17/badges/small"/>
